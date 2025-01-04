@@ -1,0 +1,17 @@
+h3{
+      font-size: 30px;
+      text-decoration: overline;
+}
+
+.two{
+      /* display: none; */
+      /* visibility: hidden; */
+}
+
+.blog{
+      margin: 10px;
+      border: 10px solid rgba(233, 126, 108, 0.815);
+      box-shadow: 10px 10px 20px rgb(109, 70, 109);
+      border-radius: 20px;
+      padding: 0px 10px;
+}
